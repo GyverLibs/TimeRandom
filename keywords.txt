@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For TimeRandom
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+TimeRandom	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setChannel	KEYWORD2
+update	KEYWORD2
+getSec	KEYWORD2
+getMin	KEYWORD2
+fromSec	KEYWORD2
+fromMin	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
