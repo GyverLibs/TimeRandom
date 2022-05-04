@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # TimeRandom
 Library for generating a set of random numbers with reference to time
 - Allows you to generate the same random numbers on different devices synchronized in time
